@@ -1,5 +1,11 @@
 # @ai-sdk/openai
 
+## 2.0.8
+
+### Patch Changes
+
+- 57fb959: feat(openai): add verbosity parameter support for chat api
+
 ## 2.0.7
 
 ### Patch Changes
